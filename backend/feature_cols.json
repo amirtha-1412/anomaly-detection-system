@@ -1,0 +1,1 @@
+["duration", "src_bytes", "dst_bytes", "wrong_fragment", "urgent", "hot", "num_failed_logins", "logged_in", "count", "srv_count", "serror_rate", "srv_serror_rate", "same_srv_rate", "diff_srv_rate", "protocol_type_encoded", "service_encoded", "flag_encoded"]
