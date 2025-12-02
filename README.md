@@ -1,4 +1,6 @@
 # 🛡️ AI-Powered Network Anomaly Detection System
+![WhatsApp Image 2025-11-14 at 20 40 55_f61e7c06](https://github.com/user-attachments/assets/88db9ecb-d262-4c89-84d1-3810192cb5d8)
+
 
 This project is an AI-based **Network Anomaly Detection System** that uses a Deep Learning model to detect malicious network activities in real-time. It integrates a **Flask backend** and a **React + Tailwind CSS frontend** to provide an interactive and user-friendly interface for anomaly detection and threat analysis.
 
@@ -24,8 +26,8 @@ ANOMALY-DETECTION-SYSTEM/
 │
 │── backend/
 │ ├── app.py # Flask API
-│ ├── anomaly_detection_model.py # Deep Learning model code
-│ ├── anomaly_detection_model.h5 # Final trained model
+│ ├── anomaly_detection_model.py  # Deep Learning model code
+│ ├── anomaly_detection_model.h5  # Final trained model
 │ ├── best_model.h5
 │ ├── scaler.pkl
 │ ├── label_encoders.pkl
@@ -116,10 +118,3 @@ Frontend will launch at:
 - Add Graph Neural Network (GNN) model  
 - Add database for storing logs  
 - Real-time traffic streaming via Kafka  
-
----
-
-## 🤝 Contributions
-
-Pull requests are welcome!  
-For suggestions, feel free to open an issue.
